@@ -2,7 +2,7 @@
 Study Curriculum for Algorithms and Machine Learning.
 
 ## Algorithms:
-<center>![Keep Calm and Study Algorithms](https://image.ibb.co/gOfgrQ/keep_calm_and_study_algorithms.png)</center>
+![Keep Calm and Study Algorithms](https://image.ibb.co/gOfgrQ/keep_calm_and_study_algorithms.png)
 
 Specializations
 * [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox/home/welcome)
