@@ -13,5 +13,4 @@ Supplementary Video Courses Material
 * [MIT 6.006 Introduction to Algorithms, Fall 2011](https://www.youtube.com/watch?v=HtSuA80QTyo)
 
 ## Machine Learning:
-## Algorithms:
 ![I predict the future](https://image.ibb.co/jktWQk/predict_Future.png)
